@@ -49,6 +49,7 @@ The Amortisation Service API is a RESTful web service that provides functionalit
     ```
 
 4. The application will start on `http://localhost:8080`.
+5. End point: http://localhost:8080/swagger-ui/index.html
 
 ### API Endpoints
 
