@@ -33,8 +33,7 @@ The Amortisation Service API is a RESTful web service that provides functionalit
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-repository/amortisation-service.git
-    cd amortisation-service
+    https://github.com/kvbhaskara/amortisation-project.git
     ```
 
 2. Build the project:
